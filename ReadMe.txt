@@ -1,0 +1,1 @@
+This folder is the only copy of the repository. Don't make copies.

@@ -1,0 +1,100 @@
+{
+  "stamp": "LOCAL_CBB_22e39453-c8e1-46d1-909f-af029571be1b",
+  "song": {
+    "id": "9bb67415-0477-4502-9e91-2179be7e0d69",
+    "stamp": "LOCAL_CBB_9bb67415-0477-4502-9e91-2179be7e0d69",
+    "name": "first proejct.cwp",
+    "description": "",
+    "forkable": false
+  },
+  "description": "",
+  "metronome": {
+    "bpm": 120,
+    "signature": {
+      "notesCount": 4,
+      "noteValue": 4
+    }
+  },
+  "samples": [
+    {
+      "id": "84a836ef-c9d6-4413-9298-22306808ba1a",
+      "isMidi": true,
+      "name": "159",
+      "file": "159.mid"
+    },
+    {
+      "id": "f64f3a2c-7799-4da0-852b-caa600acdff1",
+      "isMidi": false,
+      "name": "first proejct-NES VST 1.2 1",
+      "file": "first proejct-NES VST 1.2 1.wav"
+    }
+  ],
+  "auxChannels": [
+    {
+      "effects": null,
+      "id": "aux1",
+      "preset": "sharedReverb",
+      "returnLevel": 1.0
+    }
+  ],
+  "tracks": [
+    {
+      "type": "voice",
+      "id": "58e2bd9c-3d24-42dc-9ccf-38226f9d7565",
+      "order": 1,
+      "name": "NES VST 1.2 1",
+      "colorName": "Red",
+      "color": "#F4605F",
+      "volume": 1.0,
+      "pan": 0.0,
+      "isMuted": false,
+      "isSolo": false,
+      "regions": [
+        {
+          "file": "first proejct-NES VST 1.2 1.wav",
+          "name": "first proejct-NES VST 1.2 1",
+          "sampleId": "f64f3a2c-7799-4da0-852b-caa600acdff1",
+          "startPosition": 0,
+          "endPosition": 18.9
+        }
+      ],
+      "auxSends": [
+        {
+          "automation": [],
+          "id": "aux1",
+          "sendLevel": 0.0
+        }
+      ]
+    },
+    {
+      "type": "piano",
+      "id": "85399dd0-1fdd-4f77-bbad-e83386b9a1c1",
+      "order": 2,
+      "soundbank": "grand-piano",
+      "name": "NES VST 1.2 1",
+      "colorName": "Red",
+      "color": "#F4605F",
+      "volume": 1.0,
+      "pan": 0.0,
+      "isMuted": false,
+      "isSolo": false,
+      "regions": [
+        {
+          "file": "159.mid",
+          "name": "159",
+          "sampleId": "84a836ef-c9d6-4413-9298-22306808ba1a",
+          "startPosition": 0,
+          "endPosition": 0.75,
+          "pitchShift": 0.0
+        }
+      ],
+      "auxSends": [
+        {
+          "automation": [],
+          "id": "aux1",
+          "sendLevel": 0.0
+        }
+      ]
+    }
+  ]
+}

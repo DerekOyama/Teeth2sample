@@ -1,0 +1,287 @@
+{
+  "auxChannels": [
+    {
+      "effects": null,
+      "id": "aux1",
+      "preset": "sharedReverb",
+      "returnLevel": 1.0
+    }
+  ],
+  "canEdit": true,
+  "canMaster": false,
+  "canPublish": true,
+  "clientId": "BandLab-Web",
+  "counters": {
+    "comments": 0,
+    "forks": 0,
+    "likes": 0,
+    "plays": 0
+  },
+  "createdOn": "2022-09-13T03:52:55Z",
+  "creator": {
+    "id": "662d688c-694b-4397-8e03-946f4b319c41",
+    "isTippable": false,
+    "isVerified": false,
+    "name": "OYAMA",
+    "picture": {
+      "blur": {
+        "xs": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/100x100/blur",
+        "s": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/360x360/blur",
+        "m": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/640x640/blur",
+        "l": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/1024x1024/blur"
+      },
+      "isDefault": false,
+      "l": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/1024x1024",
+      "m": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/640x640",
+      "s": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/360x360",
+      "url": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/",
+      "xs": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/100x100"
+    },
+    "username": "chills4shiverin_"
+  },
+  "description": null,
+  "genres": null,
+  "id": "a7af4688-1733-ed11-b494-000d3a3ee5f3",
+  "isFork": false,
+  "isLiked": false,
+  "isPublic": false,
+  "key": null,
+  "lyrics": null,
+  "mastering": null,
+  "metronome": {
+    "bpm": 120,
+    "signature": {
+      "notesCount": 4,
+      "noteValue": 4
+    }
+  },
+  "mixdown": {
+    "creatorId": "662d688c-694b-4397-8e03-946f4b319c41",
+    "device": null,
+    "duration": 0.0,
+    "file": null,
+    "id": "77c43272-d63f-43d2-8bed-d652187aee78",
+    "isMidi": false,
+    "name": null,
+    "source": "BandLabWeb-CBB100",
+    "status": "Empty",
+    "waveform": null
+  },
+  "modifiedOn": "2022-09-13T03:52:55Z",
+  "parentId": null,
+  "place": null,
+  "post": {
+    "caption": null,
+    "id": "a9af4688-1733-ed11-b494-000d3a3ee5f3",
+    "isExplicit": false,
+    "state": "Private"
+  },
+  "postId": "a9af4688-1733-ed11-b494-000d3a3ee5f3",
+  "samplerKits": null,
+  "samples": [
+    {
+      "creatorId": "662d688c-694b-4397-8e03-946f4b319c41",
+      "device": null,
+      "duration": 0.0,
+      "file": "https://static.bandlab.com/samples-formatted/84a836ef-c9d6-4413-9298-22306808ba1a/84a836ef-c9d6-4413-9298-22306808ba1a.mid",
+      "id": "84a836ef-c9d6-4413-9298-22306808ba1a",
+      "isMidi": true,
+      "name": null,
+      "source": "BandLabWeb-CBB100",
+      "status": "Ready",
+      "waveform": "https://static.bandlab.com/samples-formatted/84a836ef-c9d6-4413-9298-22306808ba1a/84a836ef-c9d6-4413-9298-22306808ba1a.json"
+    },
+    {
+      "creatorId": "662d688c-694b-4397-8e03-946f4b319c41",
+      "device": null,
+      "duration": 0.0,
+      "file": null,
+      "id": "cf62932f-eb1a-4237-842f-521ada719455",
+      "isMidi": false,
+      "name": "regions-mix",
+      "source": "BandLabWeb-CBB100",
+      "status": "Empty",
+      "waveform": null
+    },
+    {
+      "creatorId": "662d688c-694b-4397-8e03-946f4b319c41",
+      "device": null,
+      "duration": 0.0,
+      "file": null,
+      "id": "f64f3a2c-7799-4da0-852b-caa600acdff1",
+      "isMidi": false,
+      "name": null,
+      "source": "BandLabWeb-CBB100",
+      "status": "Empty",
+      "waveform": null
+    },
+    {
+      "creatorId": "662d688c-694b-4397-8e03-946f4b319c41",
+      "device": null,
+      "duration": 0.0,
+      "file": null,
+      "id": "cde5cbf3-c454-412e-9cd7-e878d3b04601",
+      "isMidi": false,
+      "name": "regions-mix",
+      "source": "BandLabWeb-CBB100",
+      "status": "Empty",
+      "waveform": null
+    }
+  ],
+  "song": {
+    "author": {
+      "conversationId": null,
+      "id": "662d688c-694b-4397-8e03-946f4b319c41",
+      "name": "OYAMA",
+      "type": "User",
+      "username": "chills4shiverin_"
+    },
+    "canEdit": true,
+    "counters": {
+      "collaborators": 0,
+      "comments": 0,
+      "forks": 0,
+      "likes": 0,
+      "plays": 0,
+      "publicRevisions": 0
+    },
+    "id": "a6af4688-1733-ed11-b494-000d3a3ee5f3",
+    "isFork": false,
+    "isForkable": false,
+    "isPublic": false,
+    "name": "first proejct.cwp",
+    "original": null,
+    "originalSongId": null,
+    "picture": {
+      "blur": {
+        "xs": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/100x100/blur",
+        "s": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/360x360/blur",
+        "m": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/640x640/blur",
+        "l": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/1024x1024/blur"
+      },
+      "color": null,
+      "isDefault": false,
+      "l": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/1024x1024",
+      "m": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/640x640",
+      "s": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/360x360",
+      "url": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/",
+      "xs": "https://bandlabimages.azureedge.net/v1.0/users/662d688c-694b-4397-8e03-946f4b319c41/100x100"
+    },
+    "slug": "first-proejctcwp-e1516d2e",
+    "source": {
+      "id": "00000000-0000-0000-0000-000000000000",
+      "type": "Revision"
+    },
+    "stamp": "LOCAL_CBB_9bb67415-0477-4502-9e91-2179be7e0d69"
+  },
+  "stamp": "LOCAL_CBB_22e39453-c8e1-46d1-909f-af029571be1b",
+  "tracks": [
+    {
+      "automation": null,
+      "autoPitch": null,
+      "auxSends": [
+        {
+          "automation": [],
+          "id": "aux1",
+          "sendLevel": 0.0
+        }
+      ],
+      "canEdit": true,
+      "color": "#F4605F",
+      "colorName": "Red",
+      "effects": [],
+      "effectsData": null,
+      "id": "58e2bd9c-3d24-42dc-9ccf-38226f9d7565",
+      "inputEffect": 0,
+      "isFrozen": false,
+      "isMuted": false,
+      "isSolo": false,
+      "loopPack": null,
+      "name": "NES VST 1.2 1",
+      "order": 1,
+      "pan": 0.0,
+      "patterns": [],
+      "preset": "none",
+      "regions": [
+        {
+          "endPosition": 18.9,
+          "fadeIn": 0.0,
+          "fadeOut": 0.0,
+          "gain": 1.0,
+          "id": "bcb5b751-124d-49ef-8a0f-adefc5f88f5d",
+          "key": null,
+          "loopLength": 0.0,
+          "name": "first proejct-NES VST 1.2 1",
+          "pitchShift": 0.0,
+          "playbackRate": 1.0,
+          "sampleId": "f64f3a2c-7799-4da0-852b-caa600acdff1",
+          "sampleOffset": 0.0,
+          "sampleStartPosition": 0.0,
+          "startPosition": 0.0,
+          "trackId": "58e2bd9c-3d24-42dc-9ccf-38226f9d7565"
+        }
+      ],
+      "regionsMix": null,
+      "revisionId": "a7af4688-1733-ed11-b494-000d3a3ee5f3",
+      "sampleId": "cf62932f-eb1a-4237-842f-521ada719455",
+      "samplerKit": null,
+      "soundbank": null,
+      "type": "voice",
+      "volume": 1.0
+    },
+    {
+      "automation": null,
+      "autoPitch": null,
+      "auxSends": [
+        {
+          "automation": [],
+          "id": "aux1",
+          "sendLevel": 0.0
+        }
+      ],
+      "canEdit": true,
+      "color": "#F4605F",
+      "colorName": "Red",
+      "effects": [],
+      "effectsData": null,
+      "id": "85399dd0-1fdd-4f77-bbad-e83386b9a1c1",
+      "inputEffect": 0,
+      "isFrozen": false,
+      "isMuted": false,
+      "isSolo": false,
+      "loopPack": null,
+      "name": "NES VST 1.2 1",
+      "order": 2,
+      "pan": 0.0,
+      "patterns": [],
+      "preset": "none",
+      "regions": [
+        {
+          "endPosition": 0.75,
+          "fadeIn": 0.0,
+          "fadeOut": 0.0,
+          "gain": 1.0,
+          "id": "d18f12c2-e8af-46e1-8f4c-18e4fcbc30ea",
+          "key": null,
+          "loopLength": 0.0,
+          "name": "159",
+          "pitchShift": 0.0,
+          "playbackRate": 1.0,
+          "sampleId": "84a836ef-c9d6-4413-9298-22306808ba1a",
+          "sampleOffset": 0.0,
+          "sampleStartPosition": 0.0,
+          "startPosition": 0.0,
+          "trackId": "85399dd0-1fdd-4f77-bbad-e83386b9a1c1"
+        }
+      ],
+      "regionsMix": null,
+      "revisionId": "a7af4688-1733-ed11-b494-000d3a3ee5f3",
+      "sampleId": "cde5cbf3-c454-412e-9cd7-e878d3b04601",
+      "samplerKit": null,
+      "soundbank": "grand-piano",
+      "type": "piano",
+      "volume": 1.0
+    }
+  ],
+  "volume": 1.0
+} 

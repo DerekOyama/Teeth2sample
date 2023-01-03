@@ -1,0 +1,2 @@
+/// @description clear error
+error = "";
